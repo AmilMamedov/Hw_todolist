@@ -1,7 +1,11 @@
 from django.db import models
 from django.utils import timezone
 
+<<<<<<< HEAD
 from core.models import User
+=======
+from core.models import Userr
+>>>>>>> e91189b (Initial commit)
 
 
 class DatesModelMixin(models.Model):
