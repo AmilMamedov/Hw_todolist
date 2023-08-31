@@ -4,7 +4,7 @@ from django.utils import timezone
 <<<<<<< HEAD
 from core.models import User
 =======
-from core.models import Userr
+from core.models import User
 >>>>>>> e91189b (Initial commit)
 
 
